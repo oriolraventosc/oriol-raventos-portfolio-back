@@ -1,4 +1,4 @@
-import enviroment from "../loadEnviroment";
+import enviroment from "../loadEnviroment.js";
 import mongoose from "mongoose";
 import debugCreator from "debug";
 import chalk from "chalk";
