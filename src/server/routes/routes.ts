@@ -1,5 +1,6 @@
 const routes = {
-  loadProjects: "/projects",
+  projectsRouter: "/projects",
+  loadProjects: "/loadAllProjects",
 };
 
 export default routes;
